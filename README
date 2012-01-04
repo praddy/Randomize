@@ -1,0 +1,4 @@
+Randomize
+=========
+
+A plugin for deluge (torrent client) which when enabled will check whether the incoming port is firewalled every configurable interval and it finds the current listen port to be firewalled it will choose another random port and force a reannounce for all the current torrents. It gets enabled only if user has chosen to use random incoming ports in the core config (Network).

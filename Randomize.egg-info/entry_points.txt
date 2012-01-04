@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    Randomize = randomize:CorePlugin
+    [deluge.plugin.gtkui]
+    Randomize = randomize:GtkUIPlugin
+    [deluge.plugin.web]
+    Randomize = randomize:WebUIPlugin
+    
